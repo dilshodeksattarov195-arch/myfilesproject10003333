@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "invoicepalidate",
+        "uuid": 29737026,
+        "checksum": "24gnca"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "production"
+    }
+}
